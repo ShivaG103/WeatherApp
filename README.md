@@ -2,5 +2,5 @@
 A simple weather application 
 
 
-#Live Demo
+# Live Demo
 https://javascript-weather-information.netlify.app/
